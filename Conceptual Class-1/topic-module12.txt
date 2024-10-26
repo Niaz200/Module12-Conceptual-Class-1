@@ -1,0 +1,9 @@
+লাইভ ক্লাস
+
+২০ ডিসে, রাত ১০:০০
+
+মডিউল ১২ এর কনসেপচুয়াল ক্লাস | Laravel Eloquent Relationship in Details
+
+নোট:
+
+-One to One | One to Many | Many to Many
